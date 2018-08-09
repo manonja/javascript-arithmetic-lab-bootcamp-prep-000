@@ -22,3 +22,17 @@ function multiply(a, b){
   return a * b;
 }
 
+a = Math.floor(Math.random() * 1000);
+b = Math.floor(Math.random() * 1000);
+
+function divide(a, b){
+  return a / b;
+}
+
+
+function inc(n){
+  return n++;
+}
+
+
+
