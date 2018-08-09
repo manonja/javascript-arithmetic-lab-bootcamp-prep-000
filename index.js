@@ -14,3 +14,4 @@ b = Math.floor(Math.random() * 1000);
 function substract(a, b){
   return a - b;
 }
+
