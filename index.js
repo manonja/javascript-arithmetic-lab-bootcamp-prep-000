@@ -35,7 +35,7 @@ function inc(n){
 }
 
 
-function inc(n){
+function dec(n){
   return n--;
 }
 
